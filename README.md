@@ -139,11 +139,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Please use the [GitHub Issues](https://github.com/Easlkad/Sanayi/issues) page to report bugs or request new features.
 
-## 📞 Support
-
-For support and questions, please contact:
-- GitHub: [@Easlkad](https://github.com/Easlkad)
-- Email: [Your email here]
 
 ## 🔄 Version History
 
