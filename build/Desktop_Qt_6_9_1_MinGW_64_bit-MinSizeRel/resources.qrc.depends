@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>SearchBar.qml</file>
+        <file>DatePicker.qml</file>
+        <file>ModernButton.qml</file>
+        <file>TransactionTable.qml</file>
+    </qresource>
+</RCC>

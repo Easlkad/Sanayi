@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-MinSizeRel-9f92213f50a2dfbd292e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Sanayi",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-MinSizeRel-daf143a5317b1177aacc.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-MinSizeRel-6ca886252c61657a6109.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-MinSizeRel-561b9fa3147c15589deb.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-MinSizeRel-7d0f540689b797da9222.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-MinSizeRel-089cbdde656faa7ac155.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSanayi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSanayi-MinSizeRel-985111e6652594ed9d8e.json",
+					"name" : "appSanayi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSanayi_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSanayi_autogen-MinSizeRel-e63e8aa7f0036c6b9ccf.json",
+					"name" : "appSanayi_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSanayi_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSanayi_autogen_timestamp_deps-MinSizeRel-434d5bb364b67575baa3.json",
+					"name" : "appSanayi_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSanayi_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSanayi_copy_qml-MinSizeRel-518671ce0e0dd6b223a9.json",
+					"name" : "appSanayi_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSanayi_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSanayi_copy_res-MinSizeRel-39436df3c7402c230c59.json",
+					"name" : "appSanayi_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSanayi_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSanayi_qmlimportscan-MinSizeRel-1c1753f2a402c98258e4.json",
+					"name" : "appSanayi_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSanayi_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSanayi_qmllint-MinSizeRel-cec91197b7e6820a64eb.json",
+					"name" : "appSanayi_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSanayi_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSanayi_qmllint_json-MinSizeRel-62a99b03830fdb707357.json",
+					"name" : "appSanayi_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSanayi_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSanayi_qmllint_module-MinSizeRel-148b4e52d19c72f04147.json",
+					"name" : "appSanayi_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSanayi_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSanayi_qmltyperegistration-MinSizeRel-89f44d155cbd283bf844.json",
+					"name" : "appSanayi_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appSanayi_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appSanayi_aotstats_target-MinSizeRel-d342f6ef65c5e9d30272.json",
+					"name" : "module_appSanayi_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel",
+		"source" : "D:/QT Projects/Sanayi"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,163 @@
+# ninja log v6
+12	59	7758283279142718	.qt/appSanayi_qml.txt	1d858ad9bcdd7831
+12	264	7758275213300724	appSanayi_autogen/timestamp	481326d9df5c971b
+12	59	7758283279142718	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appSanayi_qml.txt	1d858ad9bcdd7831
+27	78	7757553393249643	.qt/appSanayi_res.txt	4b419c2fd00dfbaf
+513	911	7758283287295712	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSanayi_Main_qml.cpp.aotstats	f9eb6bccb1208768
+27	78	7757553393249643	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appSanayi_res.txt	4b419c2fd00dfbaf
+264	403	7758275217025229	meta_types/appSanayi_json_file_list.txt.timestamp	ee551179a1292ae1
+26	500	7758283283467121	.qt/qml_imports/appSanayi_build.cmake	de4c0f1dc2e2bba5
+26	500	7758283283467121	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appSanayi_build.cmake	de4c0f1dc2e2bba5
+500	618	7758283284542635	qrc_resources.cpp	f7d6744df4210338
+12	264	7758275213300724	appSanayi_autogen/mocs_compilation.cpp	481326d9df5c971b
+12	264	7758275213300724	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appSanayi_autogen/timestamp	481326d9df5c971b
+12	264	7758275213300724	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appSanayi_autogen/mocs_compilation.cpp	481326d9df5c971b
+527	646	7758283284851931	.qt/rcc/qrc_appSanayi_raw_qml_0.cpp	e4c333a6c4cc68ff
+527	646	7758283284851931	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appSanayi_raw_qml_0.cpp	e4c333a6c4cc68ff
+717	856	7757458876368625	.qt/rcc/qrc_qmake_Sanayi.cpp	42a909f599694399
+2853	3478	7758255595919861	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appsanayi_qmltyperegistrations.cpp	610e6e2c66b88660
+924	3234	7758283287859701	CMakeFiles/appSanayi.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSanayi_Main_qml.cpp.obj	773065365198c4f1
+717	856	7757458876368625	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Sanayi.cpp	42a909f599694399
+730	943	7757458877179907	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSanayi_qmlcache_loader.cpp	131c2d64a8cd7c17
+264	403	7758275217025229	meta_types/appSanayi_json_file_list.txt	ee551179a1292ae1
+264	403	7758275217025229	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appSanayi_json_file_list.txt	ee551179a1292ae1
+3234	3544	7758283310964157	appSanayi.exe	bef865beb7b926bc
+4283	8720	7758255606206288	CMakeFiles/appSanayi.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSanayi_SearchBar_qml.cpp.obj	fa834596c489d7fc
+264	403	7758275217025229	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appSanayi_json_file_list.txt.timestamp	ee551179a1292ae1
+1961	2136	7757922059485365	CMakeFiles/appSanayi.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Sanayi.cpp.obj	703ffdc18c1ad4fc
+730	943	7757458877179907	.rcc/qmlcache/appSanayi_qmlcache_loader.cpp	131c2d64a8cd7c17
+403	696	7758275217210482	meta_types/qt6appsanayi_debug_metatypes.json.gen	97884dbae8feaa2a
+403	696	7758275217210482	meta_types/qt6appsanayi_debug_metatypes.json	97884dbae8feaa2a
+403	696	7758275217210482	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appsanayi_debug_metatypes.json.gen	97884dbae8feaa2a
+403	696	7758275217210482	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appsanayi_debug_metatypes.json	97884dbae8feaa2a
+2853	3478	7758255595919861	appsanayi_qmltyperegistrations.cpp	610e6e2c66b88660
+2853	3478	7758255595919861	Sanayi/appSanayi.qmltypes	610e6e2c66b88660
+2853	3478	7758255595919861	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Sanayi/appSanayi.qmltypes	610e6e2c66b88660
+513	911	7758283287295712	.rcc/qmlcache/appSanayi_Main_qml.cpp	f9eb6bccb1208768
+513	911	7758283287295712	.rcc/qmlcache/appSanayi_Main_qml.cpp.aotstats	f9eb6bccb1208768
+513	911	7758283287295712	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSanayi_Main_qml.cpp	f9eb6bccb1208768
+4200	9394	7758255605387940	CMakeFiles/appSanayi.dir/main.cpp.obj	26dd3de9dbb5434d
+932	1146	7758283287939598	CMakeFiles/appSanayi.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appSanayi_raw_qml_0.cpp.obj	425af036fc4966c3
+4182	9456	7758255605210719	CMakeFiles/appSanayi.dir/appSanayi_autogen/mocs_compilation.cpp.obj	167e326be9c62c25
+4229	8173	7758255605677254	CMakeFiles/appSanayi.dir/appsanayi_qmltyperegistrations.cpp.obj	656efe59abce4ddd
+1993	5695	7757922059804342	CMakeFiles/appSanayi.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSanayi_qmlcache_loader.cpp.obj	cbbc656dbd0aba91
+500	618	7758283284542635	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/qrc_resources.cpp	f7d6744df4210338
+1969	5452	7757922059558728	CMakeFiles/appSanayi.dir/DatabaseManager.cpp.obj	1b6f2cf4d57ed7fa
+912	1129	7758283287734918	CMakeFiles/appSanayi.dir/qrc_resources.cpp.obj	ce747e17f4cc17cd
+3505	4090	7758255603342982	.rcc/qmlcache/appSanayi_SearchBar_qml.cpp	6dd97c9f67896f4e
+3505	4090	7758255603342982	.rcc/qmlcache/appSanayi_SearchBar_qml.cpp.aotstats	6dd97c9f67896f4e
+3505	4090	7758255603342982	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSanayi_SearchBar_qml.cpp	6dd97c9f67896f4e
+3505	4090	7758255603342982	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSanayi_SearchBar_qml.cpp.aotstats	6dd97c9f67896f4e
+696	3216	7758275220146926	CMakeFiles/appSanayi.dir/transactionmodel.cpp.obj	9ecba028bf0a984d
+1089	3720	7757942591419400	CMakeFiles/appSanayi.dir/printmanager.cpp.obj	cf032f50bb141576
+44	88	7758284048134034	.qt/appSanayi_qml.txt	1d858ad9bcdd7831
+44	88	7758284048134034	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appSanayi_qml.txt	1d858ad9bcdd7831
+54	398	7758284051118790	.qt/qml_imports/appSanayi_build.cmake	de4c0f1dc2e2bba5
+54	398	7758284051118790	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appSanayi_build.cmake	de4c0f1dc2e2bba5
+399	507	7758284052120050	qrc_resources.cpp	f7d6744df4210338
+399	507	7758284052120050	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/qrc_resources.cpp	f7d6744df4210338
+421	537	7758284052566005	.qt/rcc/qrc_appSanayi_raw_qml_0.cpp	e4c333a6c4cc68ff
+421	537	7758284052566005	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appSanayi_raw_qml_0.cpp	e4c333a6c4cc68ff
+409	712	7758284054121771	.rcc/qmlcache/appSanayi_Main_qml.cpp	f9eb6bccb1208768
+409	712	7758284054121771	.rcc/qmlcache/appSanayi_Main_qml.cpp.aotstats	f9eb6bccb1208768
+409	712	7758284054121771	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSanayi_Main_qml.cpp	f9eb6bccb1208768
+409	712	7758284054121771	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSanayi_Main_qml.cpp.aotstats	f9eb6bccb1208768
+712	872	7758284054461885	CMakeFiles/appSanayi.dir/qrc_resources.cpp.obj	ce747e17f4cc17cd
+726	894	7758284054596378	CMakeFiles/appSanayi.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appSanayi_raw_qml_0.cpp.obj	425af036fc4966c3
+719	3018	7758284054536279	CMakeFiles/appSanayi.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSanayi_Main_qml.cpp.obj	773065365198c4f1
+3018	3350	7758284077521990	appSanayi.exe	bef865beb7b926bc
+9	178	7758286832195539	appSanayi_autogen/timestamp	481326d9df5c971b
+9	178	7758286832195539	appSanayi_autogen/mocs_compilation.cpp	481326d9df5c971b
+9	178	7758286832195539	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appSanayi_autogen/timestamp	481326d9df5c971b
+9	178	7758286832195539	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appSanayi_autogen/mocs_compilation.cpp	481326d9df5c971b
+191	295	7758286834745666	qrc_resources.cpp	f7d6744df4210338
+191	295	7758286834745666	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/qrc_resources.cpp	f7d6744df4210338
+179	303	7758286834936931	meta_types/appSanayi_json_file_list.txt	ee551179a1292ae1
+179	303	7758286834936931	meta_types/appSanayi_json_file_list.txt.timestamp	ee551179a1292ae1
+179	303	7758286834936931	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appSanayi_json_file_list.txt	ee551179a1292ae1
+179	303	7758286834936931	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appSanayi_json_file_list.txt.timestamp	ee551179a1292ae1
+304	528	7758286835155503	meta_types/qt6appsanayi_debug_metatypes.json.gen	97884dbae8feaa2a
+304	528	7758286835155503	meta_types/qt6appsanayi_debug_metatypes.json	97884dbae8feaa2a
+304	528	7758286835155503	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appsanayi_debug_metatypes.json.gen	97884dbae8feaa2a
+304	528	7758286835155503	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appsanayi_debug_metatypes.json	97884dbae8feaa2a
+528	659	7758286837396999	CMakeFiles/appSanayi.dir/qrc_resources.cpp.obj	ce747e17f4cc17cd
+535	3038	7758286837457186	CMakeFiles/appSanayi.dir/transactionmodel.cpp.obj	9ecba028bf0a984d
+3038	3587	7758286862490048	appSanayi.exe	bef865beb7b926bc
+54	99	7758287329489951	.qt/appSanayi_qml.txt	1d858ad9bcdd7831
+54	99	7758287329489951	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appSanayi_qml.txt	1d858ad9bcdd7831
+65	486	7758287333179508	.qt/qml_imports/appSanayi_build.cmake	de4c0f1dc2e2bba5
+65	486	7758287333179508	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appSanayi_build.cmake	de4c0f1dc2e2bba5
+486	603	7758287334322778	qrc_resources.cpp	f7d6744df4210338
+486	603	7758287334322778	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/qrc_resources.cpp	f7d6744df4210338
+517	629	7758287334672949	.qt/rcc/qrc_appSanayi_raw_qml_0.cpp	e4c333a6c4cc68ff
+517	629	7758287334672949	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appSanayi_raw_qml_0.cpp	e4c333a6c4cc68ff
+502	825	7758287336463522	.rcc/qmlcache/appSanayi_Main_qml.cpp	f9eb6bccb1208768
+502	825	7758287336463522	.rcc/qmlcache/appSanayi_Main_qml.cpp.aotstats	f9eb6bccb1208768
+502	825	7758287336463522	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSanayi_Main_qml.cpp	f9eb6bccb1208768
+502	825	7758287336463522	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSanayi_Main_qml.cpp.aotstats	f9eb6bccb1208768
+839	973	7758287336943550	CMakeFiles/appSanayi.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appSanayi_raw_qml_0.cpp.obj	425af036fc4966c3
+825	974	7758287336806889	CMakeFiles/appSanayi.dir/qrc_resources.cpp.obj	ce747e17f4cc17cd
+832	3147	7758287336881974	CMakeFiles/appSanayi.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSanayi_Main_qml.cpp.obj	773065365198c4f1
+3147	3445	7758287360033584	appSanayi.exe	bef865beb7b926bc
+48	96	7758287598113715	.qt/appSanayi_qml.txt	1d858ad9bcdd7831
+48	96	7758287598113715	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appSanayi_qml.txt	1d858ad9bcdd7831
+60	499	7758287602000269	.qt/qml_imports/appSanayi_build.cmake	de4c0f1dc2e2bba5
+60	499	7758287602000269	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appSanayi_build.cmake	de4c0f1dc2e2bba5
+499	596	7758287602922142	qrc_resources.cpp	f7d6744df4210338
+499	596	7758287602922142	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/qrc_resources.cpp	f7d6744df4210338
+523	624	7758287603304975	.qt/rcc/qrc_appSanayi_raw_qml_0.cpp	e4c333a6c4cc68ff
+523	624	7758287603304975	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appSanayi_raw_qml_0.cpp	e4c333a6c4cc68ff
+511	804	7758287604922569	.rcc/qmlcache/appSanayi_Main_qml.cpp	f9eb6bccb1208768
+511	804	7758287604922569	.rcc/qmlcache/appSanayi_Main_qml.cpp.aotstats	f9eb6bccb1208768
+511	804	7758287604922569	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSanayi_Main_qml.cpp	f9eb6bccb1208768
+511	804	7758287604922569	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSanayi_Main_qml.cpp.aotstats	f9eb6bccb1208768
+821	992	7758287605423995	CMakeFiles/appSanayi.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appSanayi_raw_qml_0.cpp.obj	425af036fc4966c3
+804	994	7758287605271999	CMakeFiles/appSanayi.dir/qrc_resources.cpp.obj	ce747e17f4cc17cd
+813	3136	7758287605357768	CMakeFiles/appSanayi.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSanayi_Main_qml.cpp.obj	773065365198c4f1
+3137	3444	7758287628598577	appSanayi.exe	bef865beb7b926bc
+16	389	7758291619302926	appSanayi_autogen/timestamp	481326d9df5c971b
+16	389	7758291619302926	appSanayi_autogen/mocs_compilation.cpp	481326d9df5c971b
+16	389	7758291619302926	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appSanayi_autogen/timestamp	481326d9df5c971b
+16	389	7758291619302926	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appSanayi_autogen/mocs_compilation.cpp	481326d9df5c971b
+392	537	7758291624332422	meta_types/appSanayi_json_file_list.txt	ee551179a1292ae1
+392	537	7758291624332422	meta_types/appSanayi_json_file_list.txt.timestamp	ee551179a1292ae1
+392	537	7758291624332422	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appSanayi_json_file_list.txt	ee551179a1292ae1
+392	537	7758291624332422	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/appSanayi_json_file_list.txt.timestamp	ee551179a1292ae1
+537	765	7758291624518891	meta_types/qt6appsanayi_debug_metatypes.json.gen	97884dbae8feaa2a
+537	765	7758291624518891	meta_types/qt6appsanayi_debug_metatypes.json	97884dbae8feaa2a
+537	765	7758291624518891	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appsanayi_debug_metatypes.json.gen	97884dbae8feaa2a
+537	765	7758291624518891	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/meta_types/qt6appsanayi_debug_metatypes.json	97884dbae8feaa2a
+766	3038	7758291626803037	CMakeFiles/appSanayi.dir/transactionmodel.cpp.obj	9ecba028bf0a984d
+3038	3371	7758291649523705	appSanayi.exe	bef865beb7b926bc
+10	57	7758294020076376	.qt/appSanayi_qml.txt	1d858ad9bcdd7831
+10	57	7758294020076376	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appSanayi_qml.txt	1d858ad9bcdd7831
+19	500	7758294024330444	.qt/qml_imports/appSanayi_build.cmake	de4c0f1dc2e2bba5
+19	500	7758294024330444	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appSanayi_build.cmake	de4c0f1dc2e2bba5
+500	698	7758294026074889	qrc_resources.cpp	f7d6744df4210338
+500	698	7758294026074889	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/qrc_resources.cpp	f7d6744df4210338
+539	723	7758294026422344	.qt/rcc/qrc_appSanayi_raw_qml_0.cpp	e4c333a6c4cc68ff
+539	723	7758294026422344	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appSanayi_raw_qml_0.cpp	e4c333a6c4cc68ff
+517	1096	7758294030113162	.rcc/qmlcache/appSanayi_Main_qml.cpp	f9eb6bccb1208768
+517	1096	7758294030113162	.rcc/qmlcache/appSanayi_Main_qml.cpp.aotstats	f9eb6bccb1208768
+517	1096	7758294030113162	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSanayi_Main_qml.cpp	f9eb6bccb1208768
+517	1096	7758294030113162	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSanayi_Main_qml.cpp.aotstats	f9eb6bccb1208768
+1104	1253	7758294030609467	CMakeFiles/appSanayi.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appSanayi_raw_qml_0.cpp.obj	425af036fc4966c3
+1096	1254	7758294030528308	CMakeFiles/appSanayi.dir/qrc_resources.cpp.obj	ce747e17f4cc17cd
+1100	3477	7758294030570280	CMakeFiles/appSanayi.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSanayi_Main_qml.cpp.obj	773065365198c4f1
+3477	3809	7758294054342983	appSanayi.exe	bef865beb7b926bc
+46	96	7758295769507660	.qt/appSanayi_qml.txt	1d858ad9bcdd7831
+46	96	7758295769507660	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/appSanayi_qml.txt	1d858ad9bcdd7831
+55	598	7758295774382711	.qt/qml_imports/appSanayi_build.cmake	de4c0f1dc2e2bba5
+55	598	7758295774382711	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appSanayi_build.cmake	de4c0f1dc2e2bba5
+598	738	7758295775768922	qrc_resources.cpp	f7d6744df4210338
+598	738	7758295775768922	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/qrc_resources.cpp	f7d6744df4210338
+634	766	7758295776109089	.qt/rcc/qrc_appSanayi_raw_qml_0.cpp	e4c333a6c4cc68ff
+634	766	7758295776109089	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appSanayi_raw_qml_0.cpp	e4c333a6c4cc68ff
+615	1011	7758295778236252	.rcc/qmlcache/appSanayi_Main_qml.cpp	f9eb6bccb1208768
+615	1011	7758295778236252	.rcc/qmlcache/appSanayi_Main_qml.cpp.aotstats	f9eb6bccb1208768
+615	1011	7758295778236252	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSanayi_Main_qml.cpp	f9eb6bccb1208768
+615	1011	7758295778236252	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSanayi_Main_qml.cpp.aotstats	f9eb6bccb1208768
+1012	1196	7758295778787606	CMakeFiles/appSanayi.dir/qrc_resources.cpp.obj	ce747e17f4cc17cd
+1028	1197	7758295778940871	CMakeFiles/appSanayi.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appSanayi_raw_qml_0.cpp.obj	425af036fc4966c3
+1021	3428	7758295778876623	CMakeFiles/appSanayi.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSanayi_Main_qml.cpp.obj	773065365198c4f1
+3428	3781	7758295802938270	appSanayi.exe	bef865beb7b926bc

@@ -1,0 +1,156 @@
+{
+    "classes": [
+        {
+            "className": "DatabaseManager",
+            "lineNumber": 11,
+            "object": true,
+            "qualifiedClassName": "DatabaseManager",
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "date",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "plate",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "km",
+                            "type": "int"
+                        },
+                        {
+                            "name": "owner",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "brand",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "customer",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "jobDesc",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "debt",
+                            "type": "double"
+                        },
+                        {
+                            "name": "receivable",
+                            "type": "double"
+                        },
+                        {
+                            "name": "external",
+                            "type": "double"
+                        },
+                        {
+                            "name": "sparePart",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "exitDate",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "total",
+                            "type": "double"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "addTransaction",
+                    "returnType": "bool"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "id",
+                            "type": "int"
+                        },
+                        {
+                            "name": "date",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "plate",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "km",
+                            "type": "int"
+                        },
+                        {
+                            "name": "owner",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "brand",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "customer",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "jobDesc",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "debt",
+                            "type": "double"
+                        },
+                        {
+                            "name": "receivable",
+                            "type": "double"
+                        },
+                        {
+                            "name": "external",
+                            "type": "double"
+                        },
+                        {
+                            "name": "sparePart",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "exitDate",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "total",
+                            "type": "double"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "updateTransaction",
+                    "returnType": "bool"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "id",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 2,
+                    "name": "deleteTransaction",
+                    "returnType": "bool"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "DatabaseManager.h",
+    "outputRevision": 69
+}

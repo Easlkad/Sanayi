@@ -1,0 +1,52 @@
+# ninja log v6
+7	70	7757945850582181	.qt/appSanayi_qml.txt	ad462e694e27e3c1
+7	70	7757945850582181	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/.qt/appSanayi_qml.txt	ad462e694e27e3c1
+16	86	7757945850727370	.qt/appSanayi_res.txt	4ca14f71453f4be5
+16	86	7757945850727370	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/.qt/appSanayi_res.txt	4ca14f71453f4be5
+29	231	7757945852149226	.qt/qml_imports/appSanayi_build.cmake	839fdf99063fbd76
+29	231	7757945852149226	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/.qt/qml_imports/appSanayi_build.cmake	839fdf99063fbd76
+231	1410	7757945863102309	appSanayi_autogen/timestamp	6c9ac7246941b3e6
+231	1410	7757945863102309	appSanayi_autogen/mocs_compilation.cpp	6c9ac7246941b3e6
+231	1410	7757945863102309	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/appSanayi_autogen/timestamp	6c9ac7246941b3e6
+231	1410	7757945863102309	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/appSanayi_autogen/mocs_compilation.cpp	6c9ac7246941b3e6
+1415	1489	7757945864734865	meta_types/appSanayi_json_file_list.txt	6dfa87661f3554a7
+1415	1489	7757945864734865	meta_types/appSanayi_json_file_list.txt.timestamp	6dfa87661f3554a7
+1415	1489	7757945864734865	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/meta_types/appSanayi_json_file_list.txt	6dfa87661f3554a7
+1415	1489	7757945864734865	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/meta_types/appSanayi_json_file_list.txt.timestamp	6dfa87661f3554a7
+1422	1499	7757945864744928	qrc_resources.cpp	3414d686047ade64
+1422	1499	7757945864744928	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/qrc_resources.cpp	3414d686047ade64
+1429	1499	7757945864775730	.qt/rcc/qrc_qmake_Sanayi.cpp	1dcebffeec747689
+1429	1499	7757945864775730	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/.qt/rcc/qrc_qmake_Sanayi.cpp	1dcebffeec747689
+1446	1514	7757945864995986	.qt/rcc/qrc_appSanayi_raw_qml_0.cpp	52ab4671a085881f
+1446	1514	7757945864995986	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/.qt/rcc/qrc_appSanayi_raw_qml_0.cpp	52ab4671a085881f
+1437	1550	7757945865292620	.rcc/qmlcache/appSanayi_qmlcache_loader.cpp	382a39e183404e00
+1437	1550	7757945865292620	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/.rcc/qmlcache/appSanayi_qmlcache_loader.cpp	382a39e183404e00
+1489	1655	7757945866427706	meta_types/qt6appsanayi_minsizerel_metatypes.json.gen	8168b550d280f336
+1489	1655	7757945866427706	meta_types/qt6appsanayi_minsizerel_metatypes.json	8168b550d280f336
+1489	1655	7757945866427706	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/meta_types/qt6appsanayi_minsizerel_metatypes.json.gen	8168b550d280f336
+1489	1655	7757945866427706	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/meta_types/qt6appsanayi_minsizerel_metatypes.json	8168b550d280f336
+1655	1843	7757945867684171	appsanayi_qmltyperegistrations.cpp	84104d47091e2932
+1655	1843	7757945867684171	Sanayi/appSanayi.qmltypes	84104d47091e2932
+1655	1843	7757945867684171	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/appsanayi_qmltyperegistrations.cpp	84104d47091e2932
+1655	1843	7757945867684171	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/Sanayi/appSanayi.qmltypes	84104d47091e2932
+1854	2020	7757945870007164	.rcc/qmlcache/appSanayi_SearchBar_qml.cpp	abcc885f6ebea149
+1854	2020	7757945870007164	.rcc/qmlcache/appSanayi_SearchBar_qml.cpp.aotstats	abcc885f6ebea149
+1854	2020	7757945870007164	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/.rcc/qmlcache/appSanayi_SearchBar_qml.cpp	abcc885f6ebea149
+1854	2020	7757945870007164	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/.rcc/qmlcache/appSanayi_SearchBar_qml.cpp.aotstats	abcc885f6ebea149
+1843	2047	7757945870276721	.rcc/qmlcache/appSanayi_Main_qml.cpp	f21137023ac95a88
+1843	2047	7757945870276721	.rcc/qmlcache/appSanayi_Main_qml.cpp.aotstats	f21137023ac95a88
+1843	2047	7757945870276721	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/.rcc/qmlcache/appSanayi_Main_qml.cpp	f21137023ac95a88
+1843	2047	7757945870276721	D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/.rcc/qmlcache/appSanayi_Main_qml.cpp.aotstats	f21137023ac95a88
+2082	2278	7757945870777600	CMakeFiles/appSanayi.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/.qt/rcc/qrc_qmake_Sanayi.cpp.obj	7eb847ded9063dc4
+2071	2300	7757945870673450	CMakeFiles/appSanayi.dir/qrc_resources.cpp.obj	8a84bee797c3dc7d
+2122	2302	7757945871182192	CMakeFiles/appSanayi.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/.qt/rcc/qrc_appSanayi_raw_qml_0.cpp.obj	23d2a37f0f6b8fb
+2076	4856	7757945870727527	CMakeFiles/appSanayi.dir/appsanayi_qmltyperegistrations.cpp.obj	6950c85747c839ba
+2109	5013	7757945871051704	CMakeFiles/appSanayi.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/.rcc/qmlcache/appSanayi_Main_qml.cpp.obj	cc097f2ad135d29d
+2116	5211	7757945871116944	CMakeFiles/appSanayi.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/.rcc/qmlcache/appSanayi_SearchBar_qml.cpp.obj	e53df26eb9bfb695
+2098	5257	7757945870936642	CMakeFiles/appSanayi.dir/printmanager.cpp.obj	482305142950d77b
+2087	5335	7757945870827421	CMakeFiles/appSanayi.dir/DatabaseManager.cpp.obj	4b53208e6195430f
+2066	5402	7757945870621822	CMakeFiles/appSanayi.dir/main.cpp.obj	5dc45e76a96975d7
+2047	5507	7757945870430086	CMakeFiles/appSanayi.dir/appSanayi_autogen/mocs_compilation.cpp.obj	36b3a327fabebb7f
+2092	5534	7757945870877546	CMakeFiles/appSanayi.dir/transactionmodel.cpp.obj	4450d7b9e3c3eca5
+2103	5591	7757945870996776	CMakeFiles/appSanayi.dir/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/.rcc/qmlcache/appSanayi_qmlcache_loader.cpp.obj	16c225ac4dd2ae7
+5591	5766	7757945905869485	appSanayi.exe	a476aaabb2cdd63e

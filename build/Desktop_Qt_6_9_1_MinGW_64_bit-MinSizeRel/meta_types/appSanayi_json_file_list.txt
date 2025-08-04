@@ -1,0 +1,3 @@
+D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/appSanayi_autogen/include/../EWIEGA46WW/moc_DatabaseManager.cpp.json
+D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/appSanayi_autogen/include/../EWIEGA46WW/moc_printmanager.cpp.json
+D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/appSanayi_autogen/include/../EWIEGA46WW/moc_transactionmodel.cpp.json

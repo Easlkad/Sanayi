@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/Sanayi/">
+    <file alias="Main.qml">D:/QT Projects/Sanayi/Main.qml</file>
+    <file alias="SearchBar.qml">D:/QT Projects/Sanayi/SearchBar.qml</file>
+    <file alias="resources.qrc">D:/QT Projects/Sanayi/resources.qrc</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,6 @@
+module Sanayi
+typeinfo appSanayi.qmltypes
+prefer :/qt/qml/Sanayi/
+Main 1.0 Main.qml
+SearchBar 1.0 SearchBar.qml
+

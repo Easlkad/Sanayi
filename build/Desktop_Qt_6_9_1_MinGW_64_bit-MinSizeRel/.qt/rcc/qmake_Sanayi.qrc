@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Sanayi">
+    <file alias="qmldir">D:/QT Projects/Sanayi/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/Sanayi/qmldir</file>
+  </qresource>
+</RCC>
+

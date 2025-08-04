@@ -1,0 +1,40 @@
+{
+    "classes": [
+        {
+            "className": "PrintManager",
+            "lineNumber": 11,
+            "methods": [
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "printWithPreview",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "PrintManager",
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "printer",
+                            "type": "QPrinter*"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "printTransactions",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "printmanager.h",
+    "outputRevision": 69
+}
